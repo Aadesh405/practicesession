@@ -25,9 +25,12 @@ public class Sorting {
                     uniqueList.add(list.get(i));
                 }
             }
+            System.out.println("dddd");
             for (int num : uniqueList) {
-                System.out.print(num + " ");}
-        }}
+                System.out.print(num + " ");
+                System.out.println("aadesh");}
+        }
+}
 
 
 //    public static int[] removeDuplicates(int[] nums) {
